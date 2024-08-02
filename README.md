@@ -3,7 +3,7 @@
 
 ---
 
-I'm currently a second-year computer science student at the Zagreb University of Applied Sciences (TVZ). I entered the world of web application development about a year ago. I'm particularly interested in working with technologies like JS, React, and Next.js, in which I have completed several projects. I'm eager for knowledge and love learning new things.
+I'm currently a third-year computer science student at the Zagreb University of Applied Sciences (TVZ). I entered the world of web application development about a year ago. I'm particularly interested in working with technologies like JS, React, and Next.js, in which I have completed several projects. I'm eager for knowledge and love learning new things.
 
 <br>
 
