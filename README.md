@@ -34,14 +34,11 @@ I'm currently a third-year computer science student at the Zagreb University of 
 
 ---
 
-- 🔭 I’m currently working on Fullstack ecommerce website 
-- 🌱 I’m currently learning Next.js 
 
 
 
-## My portfolio website
 
-- [https://www.dodowebdevportfolio.site/](https://www.dodowebdevportfolio.site/)
+
 
 ---
 
